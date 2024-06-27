@@ -1,1 +1,4 @@
 Jan Remeš je nejlepší lektor Pythonu na světě!!!
+
+
+Petr Starý 
